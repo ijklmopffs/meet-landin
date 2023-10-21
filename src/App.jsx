@@ -4,7 +4,7 @@ import hero from "../assets/tablet/image-hero.png";
 import heroLeft from "../assets/desktop/image-hero-left.png";
 import heroRight from "../assets/desktop/image-hero-right.png";
 import page from "./assets/Group 6.svg";
-import page2 from "./assets/Group 6 copy.svg";
+import page2 from "./assets/Group 7.svg";
 import man from "../assets/desktop/image-man-texting.jpg";
 import men from "../assets/desktop/image-men-in-meeting.jpg";
 import woman1 from "../assets/desktop/image-woman-in-videocall.jpg";
