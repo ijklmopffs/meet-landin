@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 ## This is a landing page for a group chat website
 
--[Live link](meet-page-fordevsjs.netlify.app)
+-[Live link](https://meet-page-fordevsjs.netlify.app)
